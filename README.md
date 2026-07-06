@@ -58,8 +58,6 @@ My primary focus is securing Operational Technology (OT Security) developing def
 $ cat /etc/contact
 ```
 
-- Email: Faisal Alnumani (your-email@example.com)
-- LinkedIn: [Faisal Alnumani](https://linkedin.com/in/your-profile)
 - X (Twitter): [@0xf9o](https://x.com/0xf9o)
 - PGP Key: 0xDEADBEEF...
 
