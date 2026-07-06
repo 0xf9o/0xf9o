@@ -1,11 +1,8 @@
-```text
-   ____  _  __            
-  / __ \| |/ /___  ____   
- / / / /|   // _ \/ __ \  
-/ /_/ //   |/  __/ /_/ /  
-\____//_/|_|\___/\____/   
-                          
-```
+<div align="center">
+  <img src="./assets/header.svg" alt="0xf9o Header" width="100%" />
+</div>
+
+<br>
 
 ```ini
 [SYSTEM INFO]
@@ -33,40 +30,23 @@ My primary focus is securing Operational Technology (OT Security) — developing
 
 ---
 
-## DIRECTORY: /skills
+## CORE SKILLS
 
-```bash
-$ tree /skills/
-```
-
-```text
-├── offensive_security
-│   ├── active_directory_exploitation
-│   ├── threat_simulation
-│   ├── reverse_engineering
-│   └── ot_security
-├── devops_infrastructure
-│   ├── docker
-│   ├── kubernetes
-│   ├── terraform
-│   └── github_actions
-└── development
-    ├── python
-    ├── go
-    ├── bash
-    └── next_js
-```
+<div align="center">
+  <img src="./assets/skills.svg" alt="0xf9o Skills" width="100%" />
+</div>
 
 ---
 
-## PLATFORMS & METRICS
+## SECURITY PLATFORMS
 
-```bash
-$ cat /etc/security_profiles
-```
+<div align="center">
+  <img src="./assets/profiles.svg" alt="0xf9o Security Profiles" width="100%" />
+</div>
 
-- TryHackMe: [F9o](https://tryhackme.com/p/F9o)
-- HackTheBox: [5wii](https://app.hackthebox.com/users/5wii)
+<p align="center">
+  <a href="https://tryhackme.com/p/F9o">TryHackMe Profile</a> | <a href="https://app.hackthebox.com/users/5wii">HackTheBox Profile</a>
+</p>
 
 ---
 
