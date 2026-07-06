@@ -22,7 +22,7 @@ $ cat /etc/identity
 
 I build offensive security tools and DevOps-driven infrastructure focused on adversary simulation and automation. With background knowledge in backend systems, IoT, and automation, my work bridges the gap between software reliability and threat emulation.
 
-My primary focus is securing Operational Technology (OT Security) — developing defense-in-depth and attack simulation strategies for industrial and physical environments.
+My primary focus is securing Operational Technology (OT Security) developing defense-in-depth and attack simulation strategies for industrial and physical environments.
 
 - Current Focus: Offensive Engineering, Threat Simulation, and DevSecOps.
 - The Goal: Architecting resilient security postures for Industrial Control Systems (ICS) and OT environments.
