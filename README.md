@@ -38,14 +38,16 @@ My primary focus is securing Operational Technology (OT Security) — developing
 
 ---
 
-## SECURITY PLATFORMS
+## SECURITY & SOCIAL PLATFORMS
 
 <div align="center">
-  <img src="./assets/profiles.svg" alt="0xf9o Security Profiles" width="100%" />
+  <img src="./assets/profiles.svg" alt="0xf9o Profiles" width="100%" />
 </div>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/F9o">TryHackMe Profile</a> | <a href="https://app.hackthebox.com/users/5wii">HackTheBox Profile</a>
+  <a href="https://tryhackme.com/p/F9o">TryHackMe</a> | 
+  <a href="https://app.hackthebox.com/users/5wii">HackTheBox</a> | 
+  <a href="https://x.com/0xf9o">X / Twitter</a>
 </p>
 
 ---
@@ -58,6 +60,7 @@ $ cat /etc/contact
 
 - Email: Faisal Alnumani (your-email@example.com)
 - LinkedIn: [Faisal Alnumani](https://linkedin.com/in/your-profile)
+- X (Twitter): [@0xf9o](https://x.com/0xf9o)
 - PGP Key: 0xDEADBEEF...
 
 ---
