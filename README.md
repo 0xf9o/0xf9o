@@ -1,34 +1,77 @@
-# 0xf9o | Faisal Alnumani
+### ▌ 0x00 SYSTEM_INIT
 
-> **OT Security Engineer** | Bridging Physical Machinery with Cyber Resilience.
+```console
+[BOOT_SEQ] INITIALIZING SECURE TERMINAL SESSION...
+[KERNEL]   OT_CYBER_PHYSICAL_CORE v4.19-SECURE
+[IDENTITY] OPERATOR : Faisal Alnumani // HANDLE: 0xf9o
+[ROLE]     OPERATIONAL TECHNOLOGY (OT) SECURITY ENGINEER
+[STATUS]   MONITORING INDUSTRIAL CONTROL NETWORKS: ACTIVE
+[SECURITY] INTEGRITY VERIFIED // SHA-256: 0xf90...SECURED
+```
 
----
-
-### ▌ 01. OPERATING_ENVIRONMENT
-
-My engineering foundation is built on physical machinery. Starting as a Mechanical Equipment Maintenance Technician with hands-on experience dismantling, repairing, and assembling heavy equipment, I developed a granular understanding of physical industrial processes. I have transitioned this mechanical expertise into Operational Technology (OT) and Industrial Control Systems (ICS) security—focusing on securing the very infrastructure I used to build and maintain. Currently advancing my academic foundation in Mechanical Engineering.
-
-### ▌ 02. TECHNICAL_TELEMETRY
-
-**Core Competencies:**
-`ICS/OT Security` | `Network Architecture` | `Detection Engineering` | `Attack Path Assessment`
-
-**Engineering & Simulation:**
-`AutoCAD` | `EPANET` (Hydraulic Modeling) | `Mechanical Simulation` | `Engineering Drawing`
-
-**Development Stack:**
-- **Languages:** `Go`, `C# (Modern .NET)`
-- **Interfaces:** `Fyne` (GUI), `Spectre.Console` (CLI)
-- **Data Persistence:** `SQLite`
-
-### ▌ 03. RESEARCH_&_METHODOLOGY
-
-- **Industrial Threat Analysis:** Researching attack vectors and developing resilient security architectures for critical infrastructure environments.
-- **Custom Security Tooling:** Developing purpose-built CLI and cross-platform GUI utilities to simulate network stress, analyze telemetry, and assess vulnerabilities within isolated networks.
-- **Protocol & Network Security:** Analyzing communication protocols across the Purdue Model to detect anomalies and enforce boundary protections.
+> `[MANTRA]`
+> "In IT, we protect data. In OT, we protect human life, physical assets, and operations."
 
 ---
 
-### ▌ 04. COMMLINK
+### ▌ 0x01 WHOAMI
 
-[`GitHub`](https://github.com/0xf9o) | [`LinkedIn`](https://linkedin.com/in/YOUR_LINKEDIN_HERE) | [`X`](https://x.com/YOUR_X_HERE)
+```console
+$ cat /etc/operator/background.log
+```
+
+I started my career as a **Mechanical Equipment Maintenance Technician**. I spent years on the plant floor physically dismantling, repairing, and assembling heavy industrial machinery.
+
+Today, I translate that hands-on physical experience into **OT / ICS Cybersecurity**.
+
+In IT, a system failure stops screen output. In OT, a system failure damages turbines, bursts pipes, or harms plant operators. You cannot defend what you do not physically understand. My core strength is bridging heavy mechanical engineering with cyber resilience to keep critical infrastructure running safely.
+
+---
+
+### ▌ 0x02 CURRENT_OPERATIONS
+
+```console
+$ ps aux --filter="operator=0xf9o"
+```
+
+- **Tool Engineering:** Developing custom security CLI and GUI tools using `Go (Golang)` and `C# .NET`.
+- **ICS Protocol Analysis:** Capturing, decoding, and parsing industrial field protocols (`Modbus TCP/RTU`, `DNP3`, `S7comm`, `EtherNet/IP`).
+- **Architecture Hardening:** Designing segmented network boundaries and firewalls aligned with the `Purdue Model (PERA)` and `IEC 62443`.
+- **Physical-Cyber Risk Analysis:** Mapping cyber attack vectors directly to mechanical failure modes in plant assets.
+
+---
+
+### ▌ 0x03 TECHNICAL_CAPABILITIES
+
+| [ ICS & OT Security ] | [ Threat & Defense ] | [ Engineering Base (AutoCAD, EPANET) ] | [ Dev & Infra (Go, C#, SQLite) ] |
+| :--- | :--- | :--- | :--- |
+| Purdue Model (PERA) | Network Segmentation | AutoCAD (P&ID Layouts) | Go (Golang) CLI Tools |
+| IEC 62443 Standards | OT Threat Modeling | EPANET (Hydraulic Models) | C# .NET GUI Applications |
+| Modbus, DNP3, S7comm | Packet Inspection (PCAP) | Mechanical Assembly & Teardown | SQLite & Embedded Storage |
+| PLC & RTU Hardening | Attack Surface Reduction | Heavy Rotating Machinery | Linux / UNIX CLI Operations |
+| SCADA / HMI Protection | Incident Response (OT) | Physical Failure Analysis | Git / Secure CI Workflows |
+| Safety Systems (SIS) | Industrial Intrusion Detection | Hydraulic & Pneumatic Systems | Bash & PowerShell Automation |
+
+---
+
+### ▌ 0x04 TELEMETRY_LINKS
+
+```console
+$ netstat -tunap | grep ESTABLISHED
+```
+
+- **LinkedIn** : [faisal-alnumani](https://www.linkedin.com/in/faisal-alnumani)
+- **X (Twitter)** : [@0xf9o](https://x.com/0xf9o)
+- **HackTheBox** : [f9l](https://app.hackthebox.com/users/3699309?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
+- **TryHackMe** : [Fs9](https://tryhackme.com/p/Fs9)
+
+---
+
+### ▌ 0x05 SYSTEM_EXIT
+
+```console
+[+] RUNTIME BUFFER FLUSHED
+[+] FIELD CONTROLLERS MONITORED
+[+] INDUSTRIAL ASSETS SECURED
+[+] CONNECTION TERMINATED - LOGS SECURED
+```
